@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+ol {
+    font-size: 25px;
+    text-align: center;
+
+}
+ul {
+    font-size: 25px;
+    text-align: center;
+}
+div.container{
+    text-align: center;
+}
+.myul{ 
+    display: inline-block;
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.myol{
+    display:inline-block ;
+    text-align: left; 
+    margin-left: 30%;
+    margin-right: 30%;
+}
+body {
+    background-color: lightpink;
+}
